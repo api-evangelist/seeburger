@@ -1,0 +1,31 @@
+# SEEBURGER
+
+> SEEBURGER Business Integration Suite (BIS) is a cloud-native platform that connects everything from B2B/EDI and MFT to APIs, SaaS-to-SaaS and ERP systems – with built-in AI to accelerate design, automate smarter, and simplify integration management.
+
+## About This Platform
+The SEEBURGER Business Integration Suite (BIS) brings together everything you need to connect systems, automate processes, and scale intelligently – in one cloud-native platform.
+Designed for the realities of enterprise IT, BIS simplifies integration across SaaS, on-premises and hybrid environments. It empowers both business and technical teams to work together through intuitive tools and intelligent automation – without the overhead.
+
+## Products & Services
+- **Integration Platform**: [Main App](https://www.seeburger.com/integration-platform/business-integration-suite) - The SEEBURGER Business Integration Suite
+- **Deployment and Service Models**: [Deployment & Service](https://www.seeburger.com/integration-platform/deployment-and-service-models) - One platform. Multiple deployment options.
+- **Integrated AI**: [AI Integration](https://www.seeburger.com/integration-platform/integrated-ai) - Achieving Integration Excellence Through Intelligence
+- **Solutions**: [Solutions](https://www.seeburger.com/solutions/cloud-services-overview) - prebuilt integration flows, reusable assets and cloud-ready services tailored to your industry.
+- **Accelerator Services**: [Services](https://www.seeburger.com/accelerator-services/support-services) - expert consulting, hands-on training and tailored support.
+- **Integration Marketplace**: [Marketplace](https://www.seeburger.com/integration-marketplace/marketplace-overview) - over 20,000 ready-to-use mappings, partner profiles, and technology connectors
+
+## Resources
+- **Case Studies**: [Success Stories](https://www.seeburger.com/resources/case-studies) - Customer success examples
+- **Events**: [Events](https://www.seeburger.com/resources/events) - Get in touch with SEEBURGER’s BIS Platform experts & revolutionize your supply chain, business processes, IT landscape etc.
+- **Good to Know**: [Good to Know](https://www.seeburger.com/resources/good-to-know) - Your knowledge source
+- **White Papers**: [White Papers](https://www.seeburger.com/resources/white-papers) - User guides and informations
+- **Webcasts on Demand**: [WoD](https://www.seeburger.com/resources/webcasts-on-demand) - Watch now our latest Webcasts on Demand
+- **Press Releases**: [PR](https://www.seeburger.com/resources/press-release) - Latest Press Releases
+- **Brochures**: [Brochures](https://www.seeburger.com/resources/brochures) - Latest technical, industry or product related Brochures
+- **SEEBURGER Blog**: [Blog](https://blog.seeburger.com/) - SEEBURGER Blog - Discover the integration possibilities
+
+
+## Company
+- **About SEEBURGER**: [the SEEBURGER Story](https://www.seeburger.com/about-us/the-seeburger-story) - Company background and mission
+- **Career**: [Join Us](https://www.seeburger.com/about-us/career) - Open positions
+- **Contact**: [Contact Us](https://www.seeburger.com/contact) - Global contact form

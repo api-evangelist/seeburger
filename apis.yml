@@ -1,23 +1,76 @@
 aid: seeburger
+
 name: SEEBURGER
-description: 'SEEBURGER is a company surfaced via the API Evangelist harvest backlog (source: gartner-mq)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.seeburger.com/fileadmin/images/social-media/social-media-default-image.png
+
+description: SEEBURGER provides a comprehensive Business Integration Suite (BIS) platform that enables enterprises to integrate applications,
+  data, and processes across cloud, on‑premise, and hybrid environments. Their solutions include managed file transfer, B2B EDI, API integration,
+  AI‑orchestrated workflows, and industry‑specific cloud services, helping customers automate and scale digital business operations.
+
 url: https://raw.githubusercontent.com/api-evangelist/seeburger/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:gartner-mq
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-03 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-03'
+
 modified: '2026-10-03'
+
 tags:
 - Company
-apis: []
+- Integration
+- Cloud
+- B2B
+- API
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/seeburger-llms.txt
+- type: Hosts
+  url: hosts/seeburger-hosts.yml
+- type: TermsOfService
+  url: https://www.seeburger.com/legal-notice
+- type: Pricing
+  url: https://blog.seeburger.com/plans-are-being-discussed-to-introduce-a-b2b-e-invoicing-mandate-in-germany/
+- type: Blog
+  url: https://blog.seeburger.com
+- type: Documentation
+  url: https://help.cloud.seeburger.com/
+- type: DomainSecurity
+  url: security/seeburger-domain-security.yml
 - type: Website
   url: https://www.seeburger.com
+
+apis:
+- name: SEEBURGER Cloud Help
+  description: Online help portal for SEEBURGER Cloud services, providing documentation and guides.
+  humanURL: https://help.cloud.seeburger.com
+  aid: seeburger:seeburger-cloud-help
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: No OpenAPI, AsyncAPI, GraphQL, or other machine-readable contract found on api.seeburger.com or docs host.
+  evidence:
+  - url: https://api.seeburger.com/openapi.json
+    status: 0
+  checked: '2026-10-03'
+x-enrichment:
+  date: '2026-10-03'
+  status: enriched
+  artifacts_added: 6
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
